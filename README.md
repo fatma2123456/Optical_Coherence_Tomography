@@ -4,7 +4,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6%2B-orange)
 ![Accuracy](https://img.shields.io/badge/Accuracy-92.13%25-brightgreen)
 
-Deep learning system for classifying retinal diseases (CNV/DME/Drusen) from OCT scans using Custom CNN and VGG19 models.
+Deep learning system for classifying retinal diseases (CNV, DME, DRUSEN, Normal) from OCT scans using Custom CNN and VGG19 models.
 
 ## Key Features
 - 🏥 **Clinical-grade performance**: 92.13% test accuracy
